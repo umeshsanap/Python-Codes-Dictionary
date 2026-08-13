@@ -10,4 +10,6 @@ while (i <=10):
     cal = n * i
     print(25*" ",cal)
     i = i+1
+# for i in range(1, 11):
+#     print(i*n)
 print(55*"=","\n")
